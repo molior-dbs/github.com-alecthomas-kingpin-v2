@@ -1,4 +1,4 @@
-golang-github-alecthomas-kingpin (2.3.2-3) UNRELEASED; urgency=medium
+golang-github-alecthomas-kingpin (2.3.2-4) UNRELEASED; urgency=medium
 
   [ TODO ]
   * Initial release (Closes: TODO)
@@ -6,5 +6,6 @@ golang-github-alecthomas-kingpin (2.3.2-3) UNRELEASED; urgency=medium
   [ André Roth ]
   * bump version 2.3.2-2
   * debian: add dependency
+  * debian: add dependency
 
- -- André Roth <andre.roth@roche.com>  Sun, 19 Mar 2023 10:32:19 +0100
+ -- André Roth <andre.roth@roche.com>  Sun, 19 Mar 2023 10:40:07 +0100
