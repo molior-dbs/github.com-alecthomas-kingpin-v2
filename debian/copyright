@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kingpin
+Upstream-Contact: TODO
+Source: https://github.com/alecthomas/kingpin
+
+Files: *
+Copyright: 2014 Alec Thomas
+License: Expat
+
+Files: debian/*
+Copyright: 2023 TODO <TODO>
+License: Expat
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: Expat
+ TODO
